@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp.wav
+*.out.wav
+*.out.mp3
+.studyo_ref_cache_v2/
+public/sesler/kelimeler/.referans_imza.json
+medya_yukle.py
